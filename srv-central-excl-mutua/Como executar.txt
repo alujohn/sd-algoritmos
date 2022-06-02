@@ -1,0 +1,3 @@
+1. abrir o cmd ou powershell
+2. executar o comando start java ServidorA/B/C
+3. rodar o start java Main pra sincronizar
